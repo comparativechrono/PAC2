@@ -1,0 +1,10 @@
+Column names:
+Gene_ID	Transcript_ID	Gene_name	FILTER	GENOTYPE	MEAN_3	MEAN_9	MEAN_15	MEAN_21	MEAN_27	MEAN_33	MEAN_39	MEAN_45	SEM_3	SEM_9	SEM_15	SEM_21	SEM_27	SEM_33	SEM_39	SEM_45
+
+1 = gene number
+2 = transcript number
+3 = gene name
+4 = photoperiod
+5 = genotype (wt/clock)
+6 - 13 = mean
+14 - 21 = SEM
